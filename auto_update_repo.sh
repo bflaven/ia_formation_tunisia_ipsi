@@ -12,60 +12,100 @@
 # sh auto_update_repo.sh
 # 
 # =========================================================
-# Configuration
+
+# ==== CONFIGURATION ====
 REPO_PATH="/Users/brunoflaven/Documents/03_git/ia_formation_tunisia_ipsi"
 
-# Move to the repository directory
+# ==== NAVIGATE TO REPOSITORY ====
 cd "$REPO_PATH" || { echo "Error: Cannot access $REPO_PATH"; exit 1; }
 
-# Display current branch and status
+# ==== SHOW BASE INFORMATION ====
 echo "----------------------------------------"
-echo "Current branch and status"
+echo "Current Git Branch and Status"
 echo "----------------------------------------"
 git branch
 git status --short
 
-# Stage all changes
+# ==== STAGE ALL CHANGES ====
 git add -A
 
-# Capture git status output for analysis
+# ==== CAPTURE GIT STATUS ====
 status_output=$(git status --short)
 
-# Function: Interpret git status summary
+# ==== CHECK IF THERE ARE CHANGES ====
+if [ -z "$status_output" ]; then
+    echo "No changes detected. Exiting."
+    exit 0
+fi
+
+# ==== ANALYZE FILE TYPES AND ACTIONS ====
 generate_commit_message() {
+    # Detect types of modifications
     added=$(echo "$status_output" | grep "^A " | wc -l)
     modified=$(echo "$status_output" | grep "^ M" | wc -l)
     deleted=$(echo "$status_output" | grep "^ D" | wc -l)
+    renamed=$(echo "$status_output" | grep "^R" | wc -l)
     untracked=$(echo "$status_output" | grep "^\?\?" | wc -l)
 
-    if (( untracked > 0 && modified == 0 )); then
+    # Extract filenames for type analysis
+    files=$(echo "$status_output" | awk '{print $2}')
+
+    # Detect file type by extension
+    python_files=$(echo "$files" | grep -Ei "\.py$" | wc -l)
+    js_files=$(echo "$files" | grep -Ei "\.js$" | wc -l)
+    php_files=$(echo "$files" | grep -Ei "\.php$" | wc -l)
+    md_files=$(echo "$files" | grep -Ei "\.md$|readme" | wc -l)
+    text_files=$(echo "$files" | grep -Ei "\.txt$|\.diff$" | wc -l)
+    doc_files=$(echo "$files" | grep -Ei "\.pdf$|\.pptx$|\.docx$" | wc -l)
+    image_files=$(echo "$files" | grep -Ei "\.png$|\.jpg$|\.jpeg$|\.gif$|\.svg$" | wc -l)
+    config_files=$(echo "$files" | grep -Ei "\.yml$|\.yaml$|\.json$|\.ini$|\.cfg$" | wc -l)
+
+    # ==== CLASSIFY MESSAGE ====
+    if (( renamed > 0 )); then
+        echo "rename files or directories"
+    elif (( deleted > 0 )); then
+        echo "remove unused files"
+    elif (( untracked > 0 && modified == 0 )); then
         echo "add new files"
     elif (( modified > 0 && untracked == 0 )); then
         echo "update existing files"
     elif (( untracked > 0 && modified > 0 )); then
         echo "add and update files"
-    elif (( deleted > 0 )); then
-        echo "remove files"
-    elif echo "$status_output" | grep -qi "readme"; then
-        echo "update readme"
-    elif (( added > 0 )); then
-        echo "add directory and files"
+    elif (( md_files > 0 )); then
+        echo "update documentation or readme"
+    elif (( python_files > 0 )); then
+        echo "update Python scripts"
+    elif (( js_files > 0 )); then
+        echo "update JavaScript files"
+    elif (( php_files > 0 )); then
+        echo "update PHP code"
+    elif (( config_files > 0 )); then
+        echo "update configuration files"
+    elif (( text_files > 0 )); then
+        echo "edit text or diff logs"
+    elif (( doc_files > 0 )); then
+        echo "update documents or presentations"
+    elif (( image_files > 0 )); then
+        echo "update images or media assets"
     else
-        echo "small maintenance update"
+        echo "miscellaneous maintenance update"
     fi
 }
 
-# Generate commit message
+# ==== GENERATE THE FINAL COMMIT MESSAGE ====
 commit_message=$(generate_commit_message)
 timestamp=$(date +"%Y-%m-%d %H:%M:%S")
 final_message="Commit: $commit_message ($timestamp)"
 
-# Commit and push
+# ==== COMMIT AND PUSH ====
 git commit -m "$final_message"
 git push
 
-# Confirmation message
+# ==== CONFIRMATION ====
 echo "----------------------------------------"
-echo "Git repository updated successfully!"
-echo "Commit message: $final_message"
+echo "Repository successfully updated!"
+echo "Commit message used:"
+echo "$final_message"
 echo "----------------------------------------"
+
+
