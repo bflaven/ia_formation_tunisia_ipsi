@@ -58,7 +58,7 @@ generate_commit_message() {
 # Generate commit message
 commit_message=$(generate_commit_message)
 timestamp=$(date +"%Y-%m-%d %H:%M:%S")
-final_message="Auto-commit: $commit_message ($timestamp)"
+final_message="Commit: $commit_message ($timestamp)"
 
 # Commit and push
 git commit -m "$final_message"
