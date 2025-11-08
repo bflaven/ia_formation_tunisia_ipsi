@@ -2,9 +2,11 @@
 # ia_formation_tunisia_ipsi
 For a training on IA, journalism for IPSI
 
+
+## Présentation
 - Voir la prez : ia_formation_tunisia_ipsi_271025_V1.pdf
 
-## Excercices 
+## Exercices 
 
 Quelques éléments pour les excercices pratiques.
 
@@ -28,11 +30,6 @@ Quelques éléments pour les excercices pratiques.
 - Fact-checking
 - SEO et réseaux sociaux
 - Traduction et adaptation
-
-
-
-
-
 
 
 ## Other
