@@ -12,7 +12,7 @@ Bruno Flaven est chef de projet depuis 20 ans, spécialisé dans divers domaines
 
 
 ## PRÉSENTATION
-- Voir la prez : ia_formation_tunisia_ipsi_271025_V1.pdf
+- Voir la prez : ia_formation_tunisia_ipsi_131125_V1.pdf
 
 
 ## PROMPTS 
