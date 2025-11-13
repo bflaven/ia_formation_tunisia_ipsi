@@ -57,7 +57,36 @@ Un tableau synthétique et équilibré, avec des exemples concrets si possible.
 
 ```
 
+### ANATOMIE D'UN BON PROMPT
+ 
+```bash
+# Anatomie d'un bon prompt
 
+1. RÔLE
+Définir qui est l'IA
+Tu es un journaliste...
+
+2. CONTEXTE
+Donner le background
+"Pour un article
+sur..."
+
+3. TÂCHE
+Dire ce qu'on veut
+"Rédige un chapô..." 
+
+4. FORMAT
+Préciser la forme attendue
+"En 3 lignes maximum..."
+
+5. TON
+Définir le style
+"Ton neutre et factuel..."
+
+6. CONTRAINTES
+Ajouter des limites
+"Sans opinion, avec sources..." 
+```
 
 ## EXERCICES 
 
