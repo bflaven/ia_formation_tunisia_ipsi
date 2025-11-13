@@ -6,6 +6,8 @@ For a training on IA, journalism for IPSI
 ## Présentation
 - Voir la prez : ia_formation_tunisia_ipsi_271025_V1.pdf
 
+
+
 ## Exercices 
 
 Quelques éléments pour les excercices pratiques.
@@ -44,7 +46,7 @@ Quelques éléments pour les excercices pratiques.
 
 
 # go to the directory
-cd /Users/brunoflaven/Documents/03_git/ia_formation_tunisia_ipsi
+cd /Users/brunoflaven/Documents/03_git/ia_formation_tunisia_ipsi/
 
 
 
