@@ -88,6 +88,16 @@ Ajouter des limites
 "Sans opinion, avec sources..." 
 ```
 
+
+### Techniques avancées : Chain-of-thought
+
+<!-- 
+
+Choisir un article
+https://www.rfi.fr/fr/tag/tunisie/ 
+-->
+
+
 ## EXERCICES 
 
 Quelques éléments pour les excercices pratiques.
