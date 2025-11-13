@@ -3,18 +3,16 @@
 For a training on IA, journalism for IPSI
 
 
-## Mini-bio
+## BIO
 Bruno Flaven est chef de projet depuis 20 ans, spécialisé dans divers domaines d'Internet (mobile, site web). Depuis 2023, il travaille principalement dans le domaine de l'intelligence artificielle.
 
 - Plus d'infos sur [flaven.fr](https://flaven.fr/).
-
 - Plus d'infos sur [https://www.linkedin.com/in/brunoflaven/](https://www.linkedin.com/in/brunoflaven/).
 
 
 
-## Présentation
+## PRÉSENTATION
 - Voir la prez : ia_formation_tunisia_ipsi_271025_V1.pdf
-
 
 
 ## PROMPTS 
