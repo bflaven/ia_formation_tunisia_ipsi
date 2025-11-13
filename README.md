@@ -12,21 +12,62 @@ Bruno Flaven est chef de projet depuis 20 ans, spécialisé dans divers domaines
 
 
 
-
 ## Présentation
 - Voir la prez : ia_formation_tunisia_ipsi_271025_V1.pdf
 
 
 
-## Exercices 
+## PROMPTS 
+
+Un ensemble de prompts afin de faciliter le copier-coller dans les différents LLM.
+
+### PROMPTS JOUR_1
+**Exercice 2 : Test comparatif des différents LLMs sur le même prompt (40 min)**
+
+```bash
+
+# MODEL
+Rédige un chapô de 3 lignes sur {{ topic }} 
+
+# l'impact du changement climatique sur l'agriculture en Tunisie
+
+# l'esthétique des films du nouvel hollywood dans au début des années 70’s
+
+# sur les 3 raisons principales de la guerre en Ukraine et les principales raison de l’incapacité militaire de l’union européenne (UE)  
+
+
+# PROMPT_1
+Rédige un chapô de 3 lignes sur l'impact du changement climatique sur l'agriculture en Tunisie
+
+# PROMPT_2
+Rédige une liste sous forme de bullet point, dans deux colonnes, première colonne les avantages et deuxième colonne les inconvénients. Liste qui détaille les retombées économiques, sociales, touristiques  d'un événement sportif comme les jeux olympiques pu l'organisation d’une compétition internationale de football pour une ville comme Paris, Londres ou Tunis
+
+
+# PROMPT_3
+Rédige une liste comparative sous forme de tableau à deux colonnes (avantages vs inconvénients) qui détaille les retombées économiques, sociales et touristiques de l'organisation d'un événement sportif majeur (comme les Jeux Olympiques ou une compétition internationale de football) pour une ville comme Paris, Londres ou Tunis.
+
+Critères à inclure pour chaque catégorie :
+- Économiques : investissements, emplois créés, coûts, retour sur investissement, impact sur les infrastructures.
+- Sociales : cohésion sociale, visibilité internationale, perturbations locales, héritage culturel ou sportif.
+- Touristiques : afflux de visiteurs, image de marque, pression sur les services locaux, durabilité de l'attractivité.
+
+Format attendu :
+Un tableau synthétique et équilibré, avec des exemples concrets si possible.
+
+
+```
+
+
+
+## EXERCICES 
 
 Quelques éléments pour les excercices pratiques.
 
-### Exercice 1 : Rédiger un chapô (20 min)
+### EXERCICE 1 : Rédiger un chapô (20 min)
 
-### Exercice 2 : Trouver un angle (20 min)
+### EXERCICE 2 : Trouver un angle (20 min)
 
-### Exercice 3 : Résumer une interview (20 min)
+### EXERCICE 3 : Résumer une interview (20 min)
 - Transcription - RFI FR - Le grand invité_Afrique (subtitles_MZ572237.csv)
 
 États-Unis/Nigeria: "Les propos de Trump s'inscrivent dans ce retour majeur de la religion en Amérique"
