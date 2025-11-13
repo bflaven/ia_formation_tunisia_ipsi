@@ -7,11 +7,13 @@ Pour une formation en IA et journalisme pour l'IPSI
 
 
 **Hatem BEN YOUSSEF**
+
 Plus d'infos sur [linkedin.com/in/hatembenyoussef](https://www.linkedin.com/in/hatembenyoussef/).         
                         	
 
 
 **Bruno Flaven**
+
 Chef de projet depuis 20 ans, spécialisé dans divers domaines d'Internet (mobile, site web). Depuis 2023, il travaille principalement dans le domaine de l'intelligence artificielle.
 
 Plus d'infos sur [flaven.fr](https://flaven.fr/).
