@@ -143,7 +143,7 @@ Maintenant, rédige un titre dans le même style pour un article sur l'énergie 
 
 ### TECHNIQUES AVANCÉES : CHAIN-OF-THOUGHT
 
-```text
+> ```text
 Analyse cet article et détecte les biais potentiels. Procède étape par étape :
 1. Identifie les sources citées
 2. Repère les points de vue représentés
