@@ -143,7 +143,7 @@ Maintenant, rédige un titre dans le même style pour un article sur l'énergie 
 
 ### TECHNIQUES AVANCÉES : CHAIN-OF-THOUGHT
 
-> ```text
+```text
 Analyse cet article et détecte les biais potentiels. Procède étape par étape :
 1. Identifie les sources citées
 2. Repère les points de vue représentés
@@ -231,12 +231,6 @@ Audience cible :
 Tu es un lycéen, est-ce que tu comprends cet article ?
 ```
 
-
-
-
-
-
-
 ## EXERCICES 
 
 Quelques éléments pour les excercices pratiques.
@@ -274,6 +268,9 @@ Besoin d’ajuster un élément ? Précisez si vous souhaitez :
 
 
 ### EXERCICE 2 : Trouver un angle (20 min)
+
+
+
 
 ### EXERCICE 3 : Résumer une interview (20 min)
 - Transcription - RFI FR - Le grand invité_Afrique (subtitles_MZ572237.csv)
