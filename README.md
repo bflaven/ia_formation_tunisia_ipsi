@@ -286,6 +286,7 @@ Quel angle vous semble le plus pertinent ? Pourquoi ?
 ```
 
 **Aller plus sur EXERCICE_2**
+
 Voici une version améliorée et structurée du prompt initial, plus précise et orientée vers la génération d'angles éditoriaux pertinents :
 
 ---
