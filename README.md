@@ -71,30 +71,43 @@ Un tableau synthétique et équilibré, avec des exemples concrets si possible.
 ```bash
 # Anatomie d'un bon prompt
 
-1. RÔLE
-Définir qui est l'IA
+# 1. RÔLE
+# Définir qui est l'IA
 Tu es un journaliste...
 
-2. CONTEXTE
-Donner le background
+# 2. CONTEXTE
+# Donner le background
 "Pour un article
 sur..."
 
-3. TÂCHE
-Dire ce qu'on veut
-"Rédige un chapô..." 
+# 3. TÂCHE
+# Dire ce qu'on veut
+Rédige un chapô...
 
-4. FORMAT
-Préciser la forme attendue
-"En 3 lignes maximum..."
+# 4. FORMAT
+# Préciser la forme attendue
+En 3 lignes maximum...
 
-5. TON
-Définir le style
-"Ton neutre et factuel..."
+# 5. TON
+# Définir le style
+Ton neutre et factuel...
 
-6. CONTRAINTES
-Ajouter des limites
-"Sans opinion, avec sources..." 
+# 6. CONTRAINTES
+# Ajouter des limites
+Sans opinion, avec sources...
+
+
+#  PROMPT_FAIBLE
+Écris un article sur le climat
+
+# PROMPT_ÉLABORÉ
+Tu es un journaliste spécialisé en environnement. Rédige un chapô
+de 50 mots maximum pour un article sur l'impact du réchauffement
+climatique sur la production d'olives en Tunisie. Ton neutre,
+factuel, destiné au grand public. Inclure un chiffre récent si
+possible. Ne pas donner d'opinion.
+
+
 ```
 
 
