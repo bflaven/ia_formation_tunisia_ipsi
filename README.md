@@ -150,7 +150,6 @@ Analyse cet article et détecte les biais potentiels. Procède étape par étape
 3. Note les perspectives manquantes
 4. Conclus sur l'équilibre général
 
-### rfi_fr_articles_MZ560008
 Pendant de longues années, Claudia Cardinale a tenu tête à son destin d’actrice. À 87 ans, la Franco-Italienne, monument du cinéma, dont la beauté a un temps éclipsé le talent, a fini par s’en aller. Laissant comme souvenir sa capacité à porter des rôles féminins extrêmement divers, qu’elle a sublimés par un charme qui a forcé les réalisateurs et producteurs transalpins à lui tendre les bras. « J’ai incarné au cinéma toutes sortes de femmes, populaires, bourgeoises, femmes objets et même femmes d’affaires, énumérait Claudia Cardinale. J’ai donné à chacune d’elle quelque chose de moi, de mon moi secret. J’ai été la meilleure interprète de mon propre rôle, j’ai mis en scène mes propres sentiments. » 
 
 Pour comprendre ce « moi secret », il est nécessaire de se replonger dans la fin de son adolescence et le début de sa vie de jeune femme. Car entre ses premiers pas sur un tournage et son apparition dans Le Pigeon sorti en salle en 1959, son premier véritable succès dans un long métrage, se retrouve le parcours d’une jeune femme farouche, un peu sauvage et surtout profondément meurtrie qui a été forcée de grandir en une poignée d’années. 
