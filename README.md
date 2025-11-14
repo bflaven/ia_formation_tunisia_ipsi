@@ -143,6 +143,14 @@ Maintenant, rédige un titre dans le même style pour un article sur l'énergie 
 
 ### TECHNIQUES AVANCÉES : CHAIN-OF-THOUGHT
 
+- Choisir un article sur Tag "Tunisie" sur RFI_FR.
+
+[https://www.rfi.fr/fr/tag/tunisie/](https://www.rfi.fr/fr/tag/tunisie/)
+
+
+- Article choisi ["L'actrice Claudia Cardinale, monument du cinéma, est décédée"](https://www.rfi.fr/fr/culture/20250923-l-actrice-claudia-cardinale-monstre-sacr%C3%A9-du-cin%C3%A9ma-est-d%C3%A9c%C3%A9d%C3%A9e-%C3%A0-l-%C3%A2ge-de-87-ans)
+
+
 ```text
 Analyse cet article et détecte les biais potentiels. Procède étape par étape :
 1. Identifie les sources citées
@@ -269,6 +277,9 @@ Besoin d’ajuster un élément ? Précisez si vous souhaitez :
 
 ### EXERCICE_2 : Trouver un angle (20 min)
 ```text
+# BASIC_PROMPT
+
+
 # SUJET
 L'intelligence artificielle dans l'éducation
 
@@ -292,6 +303,8 @@ Voici une version améliorée et structurée du prompt initial, plus précise et
 ---
 
 ```text
+# AUGMENTED_PROMPT
+
 Contexte :
 Vous êtes un journaliste spécialisé dans les enjeux liés à l'innovation technologique et à l'éducation. Votre mission est de proposer 5 angles originaux et exploitables pour un article sur le thème : **"L'intelligence artificielle dans l'éducation"**.
 
@@ -330,7 +343,7 @@ Risques/limites : [1-2 points clés à aborder dans l'article]
 
 ---
 
-### Pourquoi cette version est améliorée ?
+#### Pourquoi cette version est améliorée ?
 1. **Précision du rôle** : Le journaliste est clairement positionné comme un spécialiste de l'innovation et de l'éducation, ce qui guide le choix des angles.
 2. **Objectifs clairs** : La demande est structurée pour éviter les réponses trop vagues ou répétitives.
 3. **Contraintes éditoriales** : Les limites (éviter le générique, intégrer des débats) poussent à des propositions plus originales.
@@ -347,14 +360,86 @@ Risques/limites : [1-2 points clés à aborder dans l'article]
 
 ### EXERCICE 3 : Résumer une interview (20 min)
 - Transcription - RFI FR - Le grand invité_Afrique (subtitles_MZ572237.csv)
-
-États-Unis/Nigeria: "Les propos de Trump s'inscrivent dans ce retour majeur de la religion en Amérique"
-
-<!-- 
-Choisir un article
-https://www.rfi.fr/fr/tag/tunisie/ 
--->
 <!-- https://bo.francemm.com/rfi/fr/content/editions/MZ572237/edit -->
+
+```text
+# BASIC_PROMPT
+
+Tâche :
+1. Demandez à l'IA d'extraire :
+- Les 3 citations les plus marquantes
+- Les 5 points clés
+- Les éventuelles contradictions
+2. Puis demandez un résumé en 100 mots
+```
+
+- Podcast choisi [États-Unis/Nigeria: "Les propos de Trump s'inscrivent dans ce retour majeur de la religion en Amérique"](https://www.rfi.fr/fr/podcasts/le-grand-invit%C3%A9-afrique/20251104-%C3%A9tats-unis-nig%C3%A9ria-les-propos-de-trump-s-inscrivent-dans-ce-retour-majeur-de-la-religion-en-am%C3%A9rique)
+
+**Aller plus sur EXERCICE_2**
+
+Voici une version améliorée et plus précise du prompt initial, adaptée pour analyser un fichier texte contenant des sous-titres ou des transcriptions :
+
+---
+
+```text
+# AUGMENTED_PROMPT
+
+Contexte :
+Vous êtes un analyste spécialisé dans l'extraction et la synthèse d'informations à partir de transcriptions ou de sous-titres. Votre mission est d'analyser un fichier texte contenant des extraits de discours, d'interviews ou de débats, afin d'en extraire les éléments clés pour une utilisation éditoriale ou analytique.
+
+Tâche :
+1.  Extraire les éléments suivants  :
+   -  3 citations marquantes  : Phrases complètes, percutantes et représentatives des idées principales ou des opinions exprimées. Privilégiez les citations qui soulèvent des enjeux, des débats ou des affirmations fortes.
+   -  5 points clés  : Thèmes récurrents ou idées principales développées dans le texte. Ces points doivent refléter la diversité des sujets abordés et leur importance relative.
+   -  Contradictions éventuelles  : Affirmations, opinions ou données qui semblent opposées ou incohérentes entre elles. Si aucune contradiction n'est identifiable, précisez-le clairement.
+
+2.  Résumer le contenu en 100 mots  :
+   - Le résumé doit capturer l'essence du texte, en mettant en avant les enjeux principaux, les acteurs mentionnés et les dynamiques décrites.
+   - Utilisez un ton neutre et précis, en évitant les interprétations subjectives.
+   - Si le texte est trop fragmenté pour permettre un résumé cohérent, indiquez les limites de l'analyse.
+
+Contraintes :
+-  Clarté  : Les citations et points clés doivent être formulés de manière intelligible, même si le texte d'origine est fragmenté.
+-  Précision  : Indiquez les segments du texte qui posent problème (ex. : phrases incomplètes, ambiguïtés).
+-  Objectivité  : Ne pas extrapoler ou interpréter au-delà de ce que le texte permet.
+
+Exemple de sortie attendue :
+---
+Citations marquantes :
+1. "[Citation complète et percutante]."
+2. "[Citation complète et percutante]."
+3. "[Citation complète et percutante]."
+
+Points clés :
+1. [Thème 1] : [Description concise].
+2. [Thème 2] : [Description concise].
+3. [Thème 3] : [Description concise].
+4. [Thème 4] : [Description concise].
+5. [Thème 5] : [Description concise].
+
+Contradictions :
+- [Contradiction 1] : [Explication].
+- [Contradiction 2] : [Explication].
+- Aucune contradiction identifiable. (Si applicable)
+
+Résumé (100 mots) :
+[Résumé concis et objectif du contenu, mettant en avant les enjeux principaux et les acteurs.]
+---
+```
+
+---
+
+### Pourquoi cette version est-elle améliorée ?
+1. **Contexte clair** : Le rôle de l'analyste est défini, ce qui guide la méthode d'extraction.
+2. **Tâche structurée** : Les attentes sont précises (citations, points clés, contradictions, résumé).
+3. **Contraintes explicites** : Clarté, précision et objectivité sont mises en avant pour éviter les interprétations hasardeuses.
+4. **Exemple de sortie** : Un modèle concret est fourni pour uniformiser les résultats.
+
+---
+**Besoin d'ajuster un élément ?** Par exemple :
+- Insister sur un type de contradiction particulier (ex. : contradictions politiques vs. scientifiques).
+- Ajouter une contrainte sur la longueur des citations.
+- Préciser un angle d'analyse spécifique (ex. : focus sur les dynamiques géopolitiques).
 
 
 ### Exercice 4 : Constituer votre bibliothèque de prompts (30 min)
@@ -365,6 +450,9 @@ https://www.rfi.fr/fr/tag/tunisie/
 - Fact-checking
 - SEO et réseaux sociaux
 - Traduction et adaptation
+
+
+**Voir [ia_formation_tunisia_ipsi/prompt_academy/003_ia_all_prompts_1.md](ia_formation_tunisia_ipsi/prompt_academy/003_ia_all_prompts_1.md)**
 
 
 ## Other
