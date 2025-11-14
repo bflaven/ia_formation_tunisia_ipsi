@@ -452,7 +452,7 @@ Résumé (100 mots) :
 - Traduction et adaptation
 
 
-**Voir [ia_formation_tunisia_ipsi/prompt_academy/003_ia_all_prompts_1.md](ia_formation_tunisia_ipsi/prompt_academy/003_ia_all_prompts_1.md)**
+**Voir [https://github.com/bflaven/ia_formation_tunisia_ipsi/tree/main/prompt_academy](https://github.com/bflaven/ia_formation_tunisia_ipsi/tree/main/prompt_academy)**
 
 
 ## Other
