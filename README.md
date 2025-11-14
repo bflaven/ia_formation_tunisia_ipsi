@@ -267,8 +267,80 @@ Besoin d’ajuster un élément ? Précisez si vous souhaitez :
 
 
 
-### EXERCICE 2 : Trouver un angle (20 min)
+### EXERCICE_2 : Trouver un angle (20 min)
+```text
+# SUJET
+L'intelligence artificielle dans l'éducation
 
+# TÂCHE
+Utilisez l'IA pour générer 5 angles différents
+
+Demandez-lui de préciser pour chaque angle :
+- Le public cible
+- Les sources potentielles
+- L'accroche possible
+
+# Débrief 
+Quel angle vous semble le plus pertinent ? Pourquoi ?
+
+```
+
+**Aller plus sur EXERCICE_2**
+Voici une version améliorée et structurée du prompt initial, plus précise et orientée vers la génération d'angles éditoriaux pertinents :
+
+---
+
+```text
+Contexte :
+Vous êtes un journaliste spécialisé dans les enjeux liés à l'innovation technologique et à l'éducation. Votre mission est de proposer 5 angles originaux et exploitables pour un article sur le thème : **"L'intelligence artificielle dans l'éducation"**.
+
+Objectifs :
+1. Chaque angle doit cibler un public spécifique (enseignants, décideurs politiques, parents, élèves, experts, etc.).
+2. Pour chaque angle, identifiez :
+   - Le public cible principal et secondaire (si applicable).
+   - 3 à 5 sources potentielles (études, rapports, experts, témoignages, données chiffrées, etc.).
+   - Une accroche percutante (max. 2 phrases) qui résume l'enjeu et suscite l'intérêt.
+   - Un exemple concret ou une étude de cas pour illustrer l'angle (si possible).
+
+Contraintes :
+- Évitez les angles trop génériques (ex. "L'IA révolutionne l'éducation").
+- Privilégiez des angles qui soulèvent des débats, des tensions ou des paradoxes.
+- Intégrez une dimension locale ou internationale selon la pertinence (ex. : comparaison entre pays, focus sur la Tunisie ou l'Afrique).
+- Mentionnez les risques ou limites associés à chaque angle (ex. : biais algorithmiques, coûts, résistance au changement).
+
+Ton :
+- Engagé mais équilibré : mettez en lumière les opportunités sans occulter les défis.
+- Précis : utilisez des termes concrets (ex. : "outils de correction automatique", "plateformes adaptatives").
+- Accessible : évitez le jargon technique sans explication.
+
+Exemple de structure pour chaque angle :
+---
+Angle : [Titre clair et accrocheur]
+Public cible : [Principal] / [Secondaire]
+Sources potentielles :
+1. [Étude ou rapport + organisme]
+2. [Expert ou institution à interviewer]
+3. [Données chiffrées ou exemple concret]
+Accroche : "[Phrase d'accroche qui interpelle]"
+Exemple concret : [Brève description d'un cas d'usage ou d'un projet existant]
+Risques/limites : [1-2 points clés à aborder dans l'article]
+---
+```
+
+---
+
+### Pourquoi cette version est améliorée ?
+1. **Précision du rôle** : Le journaliste est clairement positionné comme un spécialiste de l'innovation et de l'éducation, ce qui guide le choix des angles.
+2. **Objectifs clairs** : La demande est structurée pour éviter les réponses trop vagues ou répétitives.
+3. **Contraintes éditoriales** : Les limites (éviter le générique, intégrer des débats) poussent à des propositions plus originales.
+4. **Exemple de structure** : Un modèle concret est fourni pour uniformiser les réponses et faciliter leur exploitation.
+5. **Dimension critique** : L'accent est mis sur les risques et limites, ce qui enrichit le débat.
+
+---
+**Besoin d'ajuster un point ?** Par exemple :
+- Ajouter une contrainte sur la longueur des accroches ?
+- Insister sur un public cible en particulier (ex. : focus sur les élèves) ?
+- Intégrer un angle spécifique (ex. : l'IA dans l'éducation en Afrique) ?
 
 
 
