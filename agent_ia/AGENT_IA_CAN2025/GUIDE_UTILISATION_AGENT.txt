@@ -1,0 +1,253 @@
+═══════════════════════════════════════════════════════════════════════════════
+GUIDE D'UTILISATION - AGENT IA CAN 2025
+═══════════════════════════════════════════════════════════════════════════════
+
+🚀 DÉMARRAGE EN 3 ÉTAPES
+───────────────────────────────────────────────────────────────────────────────
+
+1. Ouvrir le fichier AGENT_IA_CAN2025.txt
+
+2. Copier TOUT le contenu
+
+3. Coller dans une NOUVELLE conversation Claude ou Gemini
+
+✅ L'agent est activé ! Vous pouvez maintenant lui poser des questions.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+💬 EXEMPLES DE QUESTIONS À POSER
+═══════════════════════════════════════════════════════════════════════════════
+
+RECHERCHE D'INFORMATIONS
+───────────────────────────────────────────────────────────────────────────────
+
+"Donne-moi toutes les infos sur le groupe A"
+
+"Quelles sont les équipes favorites pour la CAN 2025 ?"
+
+"Le Maroc est dans quel groupe ? Qui sont ses adversaires ?"
+
+"Recherche les dernières actualités sur l'équipe du Sénégal"
+
+"Trouve la composition actuelle de la Côte d'Ivoire"
+
+"Quels sont les meilleurs buteurs de la phase de qualification ?"
+
+
+GÉNÉRATION DE CONTENU ÉDITORIAL
+───────────────────────────────────────────────────────────────────────────────
+
+"Rédige une preview du groupe D pour un article de 300 mots"
+
+"Écris un brief sur les favoris de la CAN 2025 pour une rédaction"
+
+"Crée une analyse tactique du match Nigeria vs Tunisie"
+
+"Rédige un portrait de l'équipe des Comores (angle : parcours historique)"
+
+"Écris 5 tweets engageants sur le tirage des groupes"
+
+"Génère un article sur l'absence du Ghana à la CAN 2025"
+
+
+CONTENUS MULTILINGUES
+───────────────────────────────────────────────────────────────────────────────
+
+"Crée un brief en français, anglais et arabe sur le groupe B"
+
+"Rédige une preview du Maroc vs Mali en français et en arabe"
+
+"Génère des contenus pour service swahili : focus Tanzanie et Ouganda"
+
+"Brief en haoussa sur le Nigeria pour notre service linguistique"
+
+
+FORMATION & PÉDAGOGIE
+───────────────────────────────────────────────────────────────────────────────
+
+"Crée un exercice de vérification de sources sur l'équipe d'Algérie"
+
+"Propose un plan de dossier éditorial complet sur le Cameroun"
+
+"Génère des questions d'analyse pour étudiants en journalisme sportif"
+
+"Crée un tutoriel sur comment suivre les équipes africaines"
+
+
+PLANIFICATION ÉDITORIALE
+───────────────────────────────────────────────────────────────────────────────
+
+"Propose un calendrier de production de contenus pour toute la CAN"
+
+"Quels angles éditoriaux pour couvrir la phase de groupes ?"
+
+"Planifie les contenus pour notre service francophone pendant le tournoi"
+
+"Suggère des formats de contenus pour chaque phase (groupes, 1/8, 1/4...)"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+🎯 CAS D'USAGE PRATIQUES
+═══════════════════════════════════════════════════════════════════════════════
+
+CAS 1 : JOURNALISTE - PREVIEW DE MATCH
+───────────────────────────────────────────────────────────────────────────────
+
+Prompt :
+"Je dois écrire une preview du match Maroc vs Mali (groupe A). 
+Rédige un article de 400 mots avec :
+- Contexte des deux équipes
+- Forces/faiblesses
+- Joueurs clés à surveiller
+- Pronostic
+- Cite les sources pour vérification"
+
+
+CAS 2 : RÉDACTEUR - BRIEF MULTILINGUE
+───────────────────────────────────────────────────────────────────────────────
+
+Prompt :
+"Crée un brief de 150 mots sur le groupe F pour nos services :
+- Français
+- Anglais
+- Swahili
+Focus sur Côte d'Ivoire et Cameroun"
+
+
+CAS 3 : FORMATEUR - EXERCICE PÉDAGOGIQUE
+───────────────────────────────────────────────────────────────────────────────
+
+Prompt :
+"Crée un exercice pour étudiants en journalisme :
+- Objectif : vérifier les compositions d'équipe
+- Équipe : Nigeria
+- 3 sources à comparer
+- Questions d'analyse
+- Grille d'évaluation"
+
+
+CAS 4 : CHEF DE PROJET - PLANNING ÉDITORIAL
+───────────────────────────────────────────────────────────────────────────────
+
+Prompt :
+"Propose un planning de production de contenus pour France Médias Monde :
+- Services : français, anglais, arabe, swahili, haoussa, peul
+- Du 21 décembre au 18 janvier
+- Types de contenus : articles, vidéos, lives audio, social media
+- Équipes prioritaires par service linguistique"
+
+
+CAS 5 : ANALYSTE - RECHERCHE APPROFONDIE
+───────────────────────────────────────────────────────────────────────────────
+
+Prompt :
+"Recherche et compile :
+- Historique des confrontations Nigeria vs Tunisie
+- Statistiques récentes des deux équipes
+- Compositions probables
+- Analyse tactique
+- Prédictions
+Utilise web_search et cite toutes les sources"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+🔥 PROMPTS AVANCÉS
+═══════════════════════════════════════════════════════════════════════════════
+
+ANALYSE COMPARATIVE
+───────────────────────────────────────────────────────────────────────────────
+
+"Compare les effectifs des 3 favoris (Maroc, Sénégal, Égypte) :
+- Valeur marchande
+- Joueurs évoluant dans les top 5 championnats européens
+- Âge moyen
+- Expérience internationale
+Présente sous forme de tableau"
+
+
+CONTENU SOCIAL MEDIA
+───────────────────────────────────────────────────────────────────────────────
+
+"Génère 10 posts LinkedIn sur la CAN 2025 :
+- Angle professionnel/business du football
+- Hashtags pertinents
+- Call-to-action
+- Mélange d'infos et d'analyses"
+
+
+DOSSIER COMPLET
+───────────────────────────────────────────────────────────────────────────────
+
+"Crée un dossier éditorial complet sur le groupe E avec :
+1. Vue d'ensemble du groupe
+2. Fiche détaillée de chaque équipe (4)
+3. Historique des confrontations
+4. Pronostics de qualification
+5. Joueurs à suivre
+6. Calendrier des matchs
+7. Sources pour aller plus loin"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+💡 ASTUCES D'UTILISATION
+═══════════════════════════════════════════════════════════════════════════════
+
+✓ Demandez toujours "avec sources" pour obtenir les liens de vérification
+
+✓ Précisez le format : "en 200 mots", "sous forme de liste", "en tableau"
+
+✓ Indiquez le ton : "journalistique", "casual", "académique", "engageant"
+
+✓ Pour du contenu multilingue, précisez bien chaque langue
+
+✓ Utilisez "recherche web" ou "web_search" pour les infos récentes
+
+✓ Demandez des variantes : "propose 3 angles différents pour cet article"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+⚠️ LIMITATIONS À CONNAÎTRE
+═══════════════════════════════════════════════════════════════════════════════
+
+• Les listes officielles de joueurs seront disponibles en décembre 2025
+  → L'agent le mentionnera et proposera de chercher les infos actuelles
+
+• Les compositions peuvent changer jusqu'au dernier moment
+  → Toujours vérifier avec web_search avant publication
+
+• Certaines sources peuvent être en maintenance
+  → L'agent proposera des sources alternatives
+
+• Les statistiques évoluent constamment
+  → Demander une recherche web pour les derniers chiffres
+
+
+═══════════════════════════════════════════════════════════════════════════════
+🔄 RAFRAÎCHIR L'AGENT
+═══════════════════════════════════════════════════════════════════════════════
+
+Pour démarrer une nouvelle session :
+1. Ouvrir une NOUVELLE conversation
+2. Recopier le prompt système (AGENT_IA_CAN2025.txt)
+3. L'agent se réinitialise avec toutes les données
+
+Pour mettre à jour avec de nouvelles infos :
+"Mets à jour tes données : [nouvelle information]"
+
+
+═══════════════════════════════════════════════════════════════════════════════
+📋 CHECKLIST DE DÉMARRAGE
+═══════════════════════════════════════════════════════════════════════════════
+
+☐ J'ai copié le contenu de AGENT_IA_CAN2025.txt
+☐ Je l'ai collé dans une nouvelle conversation Claude/Gemini
+☐ L'agent a confirmé son activation
+☐ Je sais quoi lui demander (voir exemples ci-dessus)
+☐ Je suis prêt à générer du contenu sur la CAN 2025 !
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+C'est parti ! Activez votre agent et commencez à créer du contenu.
+
+═══════════════════════════════════════════════════════════════════════════════

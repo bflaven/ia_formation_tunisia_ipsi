@@ -1,7 +1,7 @@
+# README - Formation IA IPSI Tunisie (ia_formation_tunisia_ipsi)
+Pour une formation en IA et journalisme pour l'IPSI.
 
-# ia_formation_tunisia_ipsi
-Pour une formation en IA et journalisme pour l'IPSI
-
+Ce répertoire contient l'ensemble des ressources et documents de la formation IA dispensée à l'IPSI en Tunisie.
 
 - **Lien vers les documents [https://fmm.io/12QT](https://fmm.io/12QT)**
 
@@ -29,6 +29,44 @@ Plus d'infos sur [flaven.fr](https://flaven.fr/)
 
 Plus d'infos sur [https://www.linkedin.com/in/brunoflaven/](https://www.linkedin.com/in/brunoflaven/)
 
+
+## Structure du répertoire
+
+### 📁 agent_ia
+Descriptifs pour créer des agents IA en français et en anglais sur Claude, Mistral ou Gemini.
+
+### 📁 Documents
+Les premières versions des chartes de la RTS et de France Médias Monde.
+
+### 📄 ia_formation_tunisia_ipsi_131125_V1.pdf
+La présentation complète de la formation.
+
+### 📁 Prompt_academy
+Des exemples de prompts pour différents usages.
+
+### 📁 Prompt_books
+Des exemples de livres sur l'art du prompt.
+
+### 📁 Prompts_images
+Des prompts pour générer des images.
+
+### 📁 Source_exercises
+Un article RFI FR (`rfi_fr_articles_MZ560008.md`) et une transcription utilisés comme contenu dans les prompts.
+
+### 📄 synthese_ia_formation_tunisia_ipsi_271025_V1.md
+La synthèse de la formation sur les 3 jours au format Markdown.
+
+### 📄 synthese_ia_formation_tunisia_ipsi_271025_V1.pdf
+La synthèse de la formation sur les 3 jours au format PDF.
+
+### 📄 synthese_ia_formation_tunisia_ipsi_271025_V1.txt
+La synthèse de la formation sur les 3 jours au format TXT.
+
+### 🖼️ Qr_code_ia_formation_tunisia_ipsi.png
+Le QR code vers ce répertoire.
+
+### 📄 README.md
+Ce fichier qui contient toutes ces explications.
 
 
 ## PRÉSENTATION

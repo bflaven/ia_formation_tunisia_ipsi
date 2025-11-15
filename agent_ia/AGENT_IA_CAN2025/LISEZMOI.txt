@@ -1,0 +1,140 @@
+🏆 AGENT IA DE RECHERCHE CAN 2025 🏆
+   Génération de texte et contenu éditorial
+
+═════════════════════════════════════════════════════════════════════
+
+⚡ DÉMARRAGE RAPIDE - 3 ÉTAPES
+═════════════════════════════════════════════════════════════════════
+
+1. Ouvrir → AGENT_IA_CAN2025.txt
+2. Copier → TOUT le contenu
+3. Coller → Dans claude.ai ou gemini.google.com
+
+✅ TERMINÉ ! Votre agent IA est activé et prêt à générer du contenu.
+
+
+═════════════════════════════════════════════════════════════════════
+
+🤖 QU'EST-CE QUE C'EST ?
+═════════════════════════════════════════════════════════════════════
+
+Un agent IA spécialisé CAN 2025 qui peut :
+
+✓ Rechercher des infos sur les 24 équipes
+✓ Rédiger des articles de presse
+✓ Créer des analyses tactiques
+✓ Générer des contenus multilingues (FR, EN, AR, SW...)
+✓ Produire des briefs pour rédactions
+✓ Créer des posts social media
+✓ Faire des exercices de formation
+✓ Planifier des contenus éditoriaux
+
+
+═════════════════════════════════════════════════════════════════════
+
+📁 FICHIERS DISPONIBLES
+═════════════════════════════════════════════════════════════════════
+
+👉 START_HERE.txt
+   → COMMENCEZ ICI ! Instructions en 3 étapes
+
+👉 AGENT_IA_CAN2025.txt ⭐ ESSENTIEL
+   → Le prompt à copier-coller dans Claude/Gemini
+
+👉 GUIDE_UTILISATION_AGENT.txt
+   → 50+ exemples de questions et cas d'usage
+
+👉 EXEMPLES_CONTENUS.txt
+   → Voir ce que l'agent peut générer
+
+
+═════════════════════════════════════════════════════════════════════
+
+💬 EXEMPLES D'UTILISATION
+═════════════════════════════════════════════════════════════════════
+
+Une fois l'agent activé, vous pouvez demander :
+
+"Donne-moi les infos sur le groupe A"
+
+"Rédige une preview du match Maroc vs Mali en 300 mots"
+
+"Crée un brief sur les favoris de la CAN 2025"
+
+"Génère 5 tweets sur le tirage des groupes"
+
+"Recherche la composition actuelle du Sénégal"
+
+"Crée un planning éditorial pour la phase de groupes"
+
+
+═════════════════════════════════════════════════════════════════════
+
+❓ FAQ
+═════════════════════════════════════════════════════════════════════
+
+Q: C'est un programme Python ?
+R: NON. C'est un prompt qui transforme Claude/Gemini en agent 
+   spécialisé CAN 2025 pour générer du texte.
+
+Q: Ça coûte quelque chose ?
+R: Non si vous utilisez les versions gratuites de Claude ou Gemini.
+
+Q: L'agent connaît les compositions d'équipes ?
+R: Il connaît les groupes et peut chercher les compos via web_search.
+
+Q: Je peux l'utiliser plusieurs fois ?
+R: Oui ! Collez le prompt dans chaque nouvelle conversation.
+
+Q: Ça génère en quelle langue ?
+R: Français, anglais, arabe, swahili, haoussa, peul, etc.
+
+
+═════════════════════════════════════════════════════════════════════
+
+📊 DONNÉES INCLUSES
+═════════════════════════════════════════════════════════════════════
+
+✓ 24 équipes qualifiées réparties en 6 groupes
+✓ Dates : 21 décembre 2025 - 18 janvier 2026
+✓ 20+ liens vers sources officielles
+✓ Groupes officiels (tirage du 27 janvier 2025)
+✓ Informations sur favoris, absents, faits marquants
+
+
+═════════════════════════════════════════════════════════════════════
+
+🎯 CAS D'USAGE
+═════════════════════════════════════════════════════════════════════
+
+📰 JOURNALISTES
+   → Articles, previews, analyses de matchs
+
+🌍 RÉDACTEURS MULTILINGUES
+   → Briefs en plusieurs langues
+
+🎓 FORMATEURS
+   → Exercices pédagogiques
+
+📱 SOCIAL MEDIA
+   → Posts, tweets, contenus engageants
+
+📅 CHEFS DE PROJET
+   → Planning et calendriers éditoriaux
+
+
+═════════════════════════════════════════════════════════════════════
+
+🚀 COMMENCEZ MAINTENANT !
+═════════════════════════════════════════════════════════════════════
+
+1. Lisez START_HERE.txt pour le guide complet
+
+2. Copiez AGENT_IA_CAN2025.txt
+
+3. Collez dans une nouvelle conversation Claude/Gemini
+
+4. Commencez à poser des questions !
+
+
+═════════════════════════════════════════════════════════════════════

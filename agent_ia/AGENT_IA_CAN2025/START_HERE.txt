@@ -1,0 +1,133 @@
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║              AGENT IA DE RECHERCHE CAN 2025                         ║
+║              Génération de texte et contenu éditorial               ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+🎯 COMMENCEZ ICI - 3 ÉTAPES SIMPLES
+════════════════════════════════════════════════════════════════════════
+
+ÉTAPE 1 : Ouvrir ce fichier
+           📄 AGENT_IA_CAN2025.txt
+
+ÉTAPE 2 : Copier TOUT le contenu
+
+ÉTAPE 3 : Coller dans une nouvelle conversation sur :
+           • claude.ai  OU
+           • gemini.google.com
+
+✅ TERMINÉ ! Votre agent IA est activé.
+
+
+════════════════════════════════════════════════════════════════════════
+🤖 QUE PEUT FAIRE CET AGENT ?
+════════════════════════════════════════════════════════════════════════
+
+L'agent IA peut :
+
+✓ Rechercher des infos sur les 24 équipes qualifiées
+✓ Donner les groupes et calendriers
+✓ Chercher sur le web les compositions d'équipes
+✓ Rédiger des articles de presse
+✓ Créer des analyses tactiques
+✓ Générer des contenus multilingues
+✓ Produire des briefs pour rédactions
+✓ Créer des exercices de formation
+✓ Proposer des angles éditoriaux
+✓ Planifier des contenus
+
+
+════════════════════════════════════════════════════════════════════════
+💬 EXEMPLES DE QUESTIONS
+════════════════════════════════════════════════════════════════════════
+
+Après avoir activé l'agent, essayez :
+
+"Donne-moi les infos sur le groupe A"
+
+"Rédige une preview du match Maroc vs Mali en 300 mots"
+
+"Recherche la composition actuelle du Sénégal"
+
+"Crée un brief sur les favoris de la CAN 2025"
+
+"Génère 5 tweets sur le groupe de la mort"
+
+
+════════════════════════════════════════════════════════════════════════
+📚 FICHIERS DISPONIBLES
+════════════════════════════════════════════════════════════════════════
+
+👉 AGENT_IA_CAN2025.txt
+   → Le prompt à copier-coller (ESSENTIEL)
+
+👉 GUIDE_UTILISATION_AGENT.txt
+   → 50+ exemples de prompts et cas d'usage
+
+👉 EXEMPLES_CONTENUS.txt
+   → Exemples de contenus générés par l'agent
+
+
+════════════════════════════════════════════════════════════════════════
+⚡ DÉMARRAGE RAPIDE
+════════════════════════════════════════════════════════════════════════
+
+1. Copier AGENT_IA_CAN2025.txt
+
+2. Coller dans claude.ai (nouvelle conversation)
+
+3. L'agent dit : "Agent de recherche CAN 2025 activé..."
+
+4. Demander : "Présente-moi tous les groupes de la CAN 2025"
+
+5. Ensuite : Voir GUIDE_UTILISATION_AGENT.txt pour + d'idées
+
+
+════════════════════════════════════════════════════════════════════════
+🎓 CAS D'USAGE PRINCIPAUX
+════════════════════════════════════════════════════════════════════════
+
+JOURNALISTES
+→ Génération d'articles, previews, analyses
+
+RÉDACTEURS MULTILINGUES  
+→ Briefs en français, anglais, arabe, swahili, etc.
+
+FORMATEURS
+→ Exercices pédagogiques, cas pratiques
+
+CHEFS DE PROJET
+→ Planification éditoriale, calendriers de production
+
+SOCIAL MEDIA MANAGERS
+→ Posts, tweets, contenus engageants
+
+
+════════════════════════════════════════════════════════════════════════
+❓ FAQ
+════════════════════════════════════════════════════════════════════════
+
+Q: C'est un programme Python ?
+R: NON. C'est un prompt pour transformer Claude/Gemini en agent spécialisé CAN 2025.
+
+Q: Ça coûte quelque chose ?
+R: Non si vous utilisez Claude.ai gratuit ou Gemini gratuit.
+
+Q: Les compositions d'équipes sont incluses ?
+R: L'agent connaît les groupes et peut chercher les compos via web_search.
+
+Q: Je peux l'utiliser plusieurs fois ?
+R: Oui ! Collez le prompt dans chaque nouvelle conversation.
+
+Q: Ça marche en quelle langue ?
+R: L'agent peut générer du contenu en français, anglais, arabe, swahili, etc.
+
+
+════════════════════════════════════════════════════════════════════════
+
+            🏆 PRÊT À UTILISER L'AGENT CAN 2025 ! 🏆
+
+      Ouvrez AGENT_IA_CAN2025.txt et suivez les 3 étapes ci-dessus
+
+════════════════════════════════════════════════════════════════════════

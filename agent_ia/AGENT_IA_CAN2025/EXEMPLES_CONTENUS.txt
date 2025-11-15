@@ -1,0 +1,317 @@
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLES DE CONTENUS GÉNÉRÉS PAR L'AGENT IA CAN 2025
+═══════════════════════════════════════════════════════════════════════════════
+
+Ces exemples montrent ce que l'agent peut créer pour vous.
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE 1 : ARTICLE - PREVIEW DE GROUPE
+═══════════════════════════════════════════════════════════════════════════════
+
+Prompt utilisé :
+"Rédige une preview du groupe A pour un article de 300 mots"
+
+Résultat attendu :
+───────────────────────────────────────────────────────────────────────────────
+
+GROUPE A : LE MAROC FACE À SES DÉMONS
+
+Le tirage au sort de la CAN 2025 a placé le pays hôte, le Maroc, dans le groupe A 
+aux côtés du Mali, de la Zambie et des Comores. Si les Lions de l'Atlas partent 
+favoris, ce groupe s'annonce plus relevé qu'il n'y paraît.
+
+Le Maroc, porté par l'euphorie de sa demi-finale historique au Mondial 2022, 
+arrive avec le statut de grand favori du tournoi. L'équipe d'Walid Regragui 
+dispose d'un effectif de classe mondiale avec Hakimi, Ziyech, et Bono. L'avantage 
+du terrain devant un public acquis à leur cause pourrait s'avérer décisif.
+
+Le Mali constitue la principale menace. Les Aigles possèdent un effectif solide 
+avec des joueurs expérimentés évoluant dans les grands championnats européens. 
+Habitués aux phases finales, ils ont les armes pour créer la surprise.
+
+La Zambie, championne d'Afrique en 2012, revient sur la scène continentale après 
+plusieurs absences. Les Chipolopolo tenteront de retrouver leur lustre d'antan 
+et de jouer les trouble-fête dans un groupe ouvert.
+
+Les Comores, enfin, vivent leur deuxième participation après l'épopée de 2021. 
+Bien que considérés comme outsiders, les Cœlacanthes ont démontré qu'ils pouvaient 
+rivaliser avec les plus grands.
+
+Verdict : Maroc et Mali devraient se qualifier, mais attention à la Zambie.
+
+Sources : CAF, Footmercato, Transfermarkt
+
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE 2 : BRIEF MULTILINGUE
+═══════════════════════════════════════════════════════════════════════════════
+
+Prompt utilisé :
+"Crée un brief de 100 mots sur le Nigeria en français, anglais et arabe"
+
+Résultat attendu :
+───────────────────────────────────────────────────────────────────────────────
+
+🇫🇷 FRANÇAIS
+
+Le Nigeria, finaliste de la dernière édition, revient avec de grandes ambitions. 
+Les Super Eagles disposent d'un effectif de très haut niveau avec Victor Osimhen 
+(Naples) et Ademola Lookman (Atalanta). Placés dans le groupe C face à la Tunisie, 
+l'Ouganda et la Tanzanie, ils sont favoris pour la première place. Le sélectionneur 
+compte sur l'expérience de ses cadres pour aller chercher un 4ème titre continental.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🇬🇧 ENGLISH
+
+Nigeria, runners-up of the last edition, return with high ambitions. The Super 
+Eagles have a world-class squad featuring Victor Osimhen (Napoli) and Ademola 
+Lookman (Atalanta). Placed in Group C against Tunisia, Uganda and Tanzania, they 
+are favorites for first place. The coach relies on his experienced core to secure 
+a 4th continental title.
+
+───────────────────────────────────────────────────────────────────────────────
+
+🇸🇦 العربية
+
+تعود نيجيريا، وصيفة بطل النسخة الماضية، بطموحات كبيرة. يمتلك النسور الخضراء تشكيلة 
+عالمية المستوى مع فيكتور أوسيمهين وأديمولا لوكمان. وضعت في المجموعة الثالثة أمام تونس 
+وأوغندا وتنزانيا، وهي المرشحة للمركز الأول. يعتمد المدرب على خبرة نجومه للفوز باللقب 
+القاري الرابع.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE 3 : CONTENU SOCIAL MEDIA
+═══════════════════════════════════════════════════════════════════════════════
+
+Prompt utilisé :
+"Génère 5 tweets engageants sur le tirage de la CAN 2025"
+
+Résultat attendu :
+───────────────────────────────────────────────────────────────────────────────
+
+Tweet 1 :
+🚨 GROUPE DE LA MORT ? 🚨
+
+Le Groupe F réunit la Côte d'Ivoire 🇨🇮 (tenante), le Cameroun 🇨🇲, le Gabon 🇬🇦 
+et le Mozambique 🇲🇿
+
+Seulement 2 places pour les 1/8... Qui passe selon vous ? 👀
+
+#CAN2025 #AFCON2025
+
+───────────────────────────────────────────────────────────────────────────────
+
+Tweet 2 :
+🏠 Le MAROC 🇲🇦 jouera à domicile !
+
+Face au Mali, à la Zambie et aux Comores dans le groupe A.
+
+Avantage du terrain = ticket pour le titre ? 🏆
+
+#LionsdeAtlas #CAN2025
+
+───────────────────────────────────────────────────────────────────────────────
+
+Tweet 3 :
+HISTORIQUE : Le GHANA 🇬🇭 manquera la CAN pour la 1ère fois en 20 ANS ! 😱
+
+Les Black Stars (4x champions) éliminés en qualification.
+
+Fin d'une ère ? 
+
+#CAN2025 #Ghana
+
+───────────────────────────────────────────────────────────────────────────────
+
+Tweet 4 :
+🔥 CHOC AU SOMMET 🔥
+
+NIGERIA 🇳🇬 vs TUNISIE 🇹🇳 dans le groupe C !
+
+Deux poids lourds qui s'affrontent pour la 1ère place.
+
+Match à ne pas manquer ! 📺
+
+#SuperEagles #CAN2025
+
+───────────────────────────────────────────────────────────────────────────────
+
+Tweet 5 :
+📊 LES FAVORIS selon les bookmakers :
+
+1⃣ Maroc 🇲🇦 (hôte)
+2⃣ Sénégal 🇸🇳 (champion 2021)
+3⃣ Égypte 🇪🇬 (7 titres)
+4⃣ Nigeria 🇳🇬
+5⃣ Côte d'Ivoire 🇨🇮 (tenant)
+
+Vous êtes d'accord ? 🤔
+
+#CAN2025
+
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE 4 : ANALYSE TACTIQUE
+═══════════════════════════════════════════════════════════════════════════════
+
+Prompt utilisé :
+"Crée une analyse tactique du potentiel match Sénégal vs RD Congo"
+
+Résultat attendu :
+───────────────────────────────────────────────────────────────────────────────
+
+ANALYSE TACTIQUE : SÉNÉGAL vs RD CONGO
+
+SYSTÈME DE JEU
+
+Sénégal (4-3-3)
+Le sélectionneur Aliou Cissé privilégie un 4-3-3 offensif avec Sadio Mané en faux 
+numéro 9. La force des Lions de la Teranga réside dans leur agressivité défensive 
+et leurs transitions rapides.
+
+RD Congo (4-4-2)
+Les Léopards optent généralement pour un bloc défensif compact en 4-4-2, misant 
+sur la solidité et les contres menés par leurs attaquants rapides.
+
+POINTS CLÉS
+
+Bataille du milieu : Le trio sénégalais (Gueye-Mendy-Sarr) devra dominer pour 
+alimenter les attaquants. La RDC comptera sur son organisation pour fermer les 
+espaces.
+
+Couloirs : Les latéraux sénégalais montent très haut. La RDC pourrait exploiter 
+ces espaces en contre.
+
+Duels individuels : Mané vs défense congolaise sera déterminant. Koulibaly devra 
+contenir les contres adverses.
+
+PRONOSTIC TACTIQUE
+Le Sénégal devrait imposer son jeu et sa possession (60-65%), mais la RDC peut 
+créer le danger sur phases arrêtées et contres rapides.
+
+Sources : Analyses tactiques WhoScored, Stats SofaScore
+
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE 5 : PLANNING ÉDITORIAL
+═══════════════════════════════════════════════════════════════════════════════
+
+Prompt utilisé :
+"Propose un calendrier de production pour la phase de groupes"
+
+Résultat attendu :
+───────────────────────────────────────────────────────────────────────────────
+
+PLANNING ÉDITORIAL - PHASE DE GROUPES CAN 2025
+
+SEMAINE 1 (21-27 DÉCEMBRE)
+
+📅 Avant le coup d'envoi (18-20 déc)
+• Previews des 6 groupes (1 article par groupe)
+• Portraits des favoris (Maroc, Sénégal, Égypte, Nigeria)
+• Dossier : "Les surprises potentielles"
+• Infographies : Groupes, calendrier, stades
+
+📅 Journée 1 (21-23 déc)
+• Lives des matchs prioritaires
+• Réactions à chaud post-matchs
+• Tops/Flops de la journée
+• Points sur les compositions
+
+📅 Journée 2 (24-26 déc)
+• Analyses tactiques matchs J1
+• Previews J2
+• Focus joueurs qui se sont révélés
+• Classements provisoires
+
+📅 Journée 3 (27-29 déc)
+• Matchs décisifs pour qualification
+• Simulations de qualification
+• Bilan de phase de groupes
+• Compositions des 1/8
+
+
+SEMAINE 2 (28 DÉCEMBRE - 2 JANVIER)
+
+📅 Derniers matchs de groupes (28-30 déc)
+• Multiplex en direct
+• Scénarios de qualification en temps réel
+• Drames et qualifications historiques
+
+📅 Repos et analyse (31 déc - 2 jan)
+• Bilans statistiques phase de groupes
+• Équipes qui déçoivent / qui surprennent
+• Best XI de la phase de groupes
+• Préparation 1/8 de finale
+
+
+FORMATS PAR SERVICE LINGUISTIQUE
+
+Français : Articles longs, analyses approfondies
+Anglais : Contenus directs, stats, infographies
+Arabe : Focus Maroc, Tunisie, Algérie, Égypte
+Swahili : Tanzanie, Ouganda, RD Congo
+Haoussa : Nigeria, Cameroun
+Peul : Mali, Sénégal, Burkina Faso
+
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLE 6 : EXERCICE PÉDAGOGIQUE
+═══════════════════════════════════════════════════════════════════════════════
+
+Prompt utilisé :
+"Crée un exercice de formation sur la vérification de sources"
+
+Résultat attendu :
+───────────────────────────────────────────────────────────────────────────────
+
+EXERCICE : VÉRIFICATION DE SOURCES - COMPOSITION ÉQUIPE ALGÉRIE
+
+OBJECTIFS PÉDAGOGIQUES
+• Identifier sources primaires vs secondaires
+• Croiser les informations
+• Évaluer la fiabilité
+• Rédiger une note de synthèse vérifiée
+
+CONSIGNES
+
+1. Consultez ces 3 sources sur la composition de l'Algérie :
+   - Site officiel FAF (Fédération Algérienne)
+   - Transfermarkt
+   - Article France 24
+
+2. Pour chaque source, notez :
+   - Date de dernière mise à jour
+   - Type de source (officielle/média/base de données)
+   - Informations disponibles
+   - Degré de fiabilité (1-5)
+
+3. Comparez les listes de joueurs :
+   - Y a-t-il des divergences ?
+   - Quelle source fait autorité ?
+   - Comment expliquer les différences ?
+
+4. Rédigez une note de 150 mots sur la composition algérienne
+   - Citez vos sources
+   - Mentionnez les incertitudes
+   - Proposez une vérification complémentaire si nécessaire
+
+GRILLE D'ÉVALUATION
+
+Identification des sources : /5
+Analyse critique : /5
+Croisement d'informations : /5
+Qualité de la synthèse : /5
+Citations et références : /5
+
+TOTAL : /25
+
+
+═══════════════════════════════════════════════════════════════════════════════
+
+TOUS CES EXEMPLES PEUVENT ÊTRE GÉNÉRÉS PAR L'AGENT IA !
+
+Activez-le avec AGENT_IA_CAN2025.txt et commencez à créer du contenu.
+
+═══════════════════════════════════════════════════════════════════════════════

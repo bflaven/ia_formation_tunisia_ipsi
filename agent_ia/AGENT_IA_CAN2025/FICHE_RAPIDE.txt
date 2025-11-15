@@ -1,0 +1,109 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║          🏆 AGENT IA - CAN 2025 - FICHE RAPIDE 🏆               ║
+║                                                                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  C'EST QUOI ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Un prompt qui transforme Claude ou Gemini en agent spécialisé pour 
+créer du CONTENU ÉDITORIAL sur la CAN 2025.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  COMMENT FAIRE ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  1. Ouvrir → AGENT_IA_CAN2025.txt
+  
+  2. COPIER tout le texte
+  
+  3. COLLER dans claude.ai ou gemini.google.com
+  
+  4. DEMANDER : "Présente les groupes de la CAN 2025"
+  
+  ✅ C'EST TOUT !
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  QUE PEUT-IL FAIRE ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ✓ Rédiger des ARTICLES
+  ✓ Créer des ANALYSES tactiques
+  ✓ Générer du contenu MULTILINGUE
+  ✓ Produire des BRIEFS pour rédaction
+  ✓ Créer des POSTS social media
+  ✓ Faire des PLANNINGS éditoriaux
+  ✓ Rechercher des INFOS sur le web
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  EXEMPLES DE DEMANDES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  "Rédige une preview du groupe A en 300 mots"
+  
+  "Crée 5 tweets sur les favoris de la CAN 2025"
+  
+  "Recherche la composition actuelle du Maroc"
+  
+  "Génère un brief en français et en arabe sur le Sénégal"
+  
+  "Propose un planning éditorial pour la phase de groupes"
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  DONNÉES INCLUSES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📅 Dates : 21 décembre 2025 → 18 janvier 2026
+  🏆 24 équipes en 6 groupes
+  🇲🇦 Pays hôte : Maroc
+  🔗 20+ sources officielles
+  
+  Groupes :
+  A: Maroc, Mali, Zambie, Comores
+  B: Égypte, Afrique du Sud, Angola, Zimbabwe
+  C: Nigeria, Tunisie, Ouganda, Tanzanie
+  D: Sénégal, RD Congo, Bénin, Botswana
+  E: Algérie, Burkina Faso, Guinée équatoriale, Soudan
+  F: Côte d'Ivoire, Cameroun, Gabon, Mozambique
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  FICHIERS DU PACKAGE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📄 AGENT_IA_CAN2025.txt ← LE PLUS IMPORTANT
+     → Le prompt à copier-coller
+  
+  📖 START_HERE.txt
+     → Instructions détaillées
+  
+  📚 GUIDE_UTILISATION_AGENT.txt
+     → 50+ exemples de prompts
+  
+  📝 EXEMPLES_CONTENUS.txt
+     → Voir ce que l'agent peut créer
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  POUR QUI ?
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  📰 Journalistes sportifs
+  🌍 Rédacteurs multilingues
+  🎓 Formateurs en journalisme
+  📱 Community managers
+  📊 Chefs de projets éditoriaux
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+           Ouvrez AGENT_IA_CAN2025.txt pour commencer !
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
