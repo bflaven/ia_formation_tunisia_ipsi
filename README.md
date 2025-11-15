@@ -3,9 +3,9 @@
 Pour une formation en IA et journalisme pour l'IPSI
 
 
-- **Tous les documents sont à télécharger à [https://fmm.io/12QT](https://fmm.io/12QT)**
+- **Lien vers les documents [https://fmm.io/12QT](https://fmm.io/12QT)**
 
-- **Ou accéder à l'URL en scannant le QR code ci-dessous.**
+- **QR code vers les documents**
                    
 ![Tous les documents sont à télécharger à [https://fmm.io/12QT]](qr_code_ia_formation_tunisia_ipsi.png)
 
