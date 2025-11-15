@@ -2,6 +2,12 @@
 # ia_formation_tunisia_ipsi
 Pour une formation en IA et journalisme pour l'IPSI
 
+**Tous les documents sont à télécharger à [https://fmm.io/12QT](https://fmm.io/12QT)**
+                   
+![Tous les documents sont à télécharger à [https://fmm.io/12QT]](qr_code_ia_formation_tunisia_ipsi.png)
+
+
+
 
 ## FORMATEURS
 
