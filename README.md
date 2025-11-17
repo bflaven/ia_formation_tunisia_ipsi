@@ -65,9 +65,9 @@ Des exemples de livres sur l'art du prompt. La majorité sont en anglais. Quelqu
 
 - **Ces principes dans la conception d’un prompt sont utilisable sur tous les LLM (Claude, Gemini, ChatGPT, Mistral, Perplexoty) que nous avons vu en formation.**
 
-- gemini-for-google-workspace-prompting-guide-101.pdf
-- THE PROMPT ENGINEERING GUIDE V2.pdf
-- The Ultimate Guide To ChatGPT Prompts.pdf
+	+ gemini-for-google-workspace-prompting-guide-101.pdf
+	+ THE PROMPT ENGINEERING GUIDE V2.pdf
+	+ The Ultimate Guide To ChatGPT Prompts.pdf
 
 ### 📁 Prompts_images
 Des prompts pour générer des images.
