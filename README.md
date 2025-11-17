@@ -57,7 +57,11 @@ La présentation complète de la formation.
 Des exemples de prompts pour différents usages.
 
 ### 📁 Prompt_books
-Des exemples de livres sur l'art du prompt. La majorité sont en anglais. Précision, les principes énoncés reprennent certains éléments de la présentation et surtout ces principes dans la conception d’un prompt sont utilisable sur tous les LLM (Claude, Gemini, ChatGPT, Mistral, Perplexoty) que nous avons vu en formation.
+Des exemples de livres sur l'art du prompt. La majorité sont en anglais. Quelques précisions :
+
+- Les principes énoncés reprennent certains éléments de la présentation
+
+- **Ces principes dans la conception d’un prompt sont utilisable sur tous les LLM (Claude, Gemini, ChatGPT, Mistral, Perplexoty) que nous avons vu en formation.**
 
 - gemini-for-google-workspace-prompting-guide-101.pdf
 - THE PROMPT ENGINEERING GUIDE V2.pdf
