@@ -36,7 +36,23 @@ Plus d'infos sur [https://www.linkedin.com/in/brunoflaven/](https://www.linkedin
 Descriptifs pour créer des agents IA en français et en anglais sur Claude, Mistral ou Gemini.
 
 ### 📁 Documents
-Les premières versions des chartes de la RTS et de France Médias Monde.
+Les premières versions des chartes de la RTS et de France Médias Monde et d'autres documents présentés le dernier jour :
+
+- Cartographie des enjeux et usages de l’IA pour le journalisme
+- Recommandations de sécurité pour un système d'ia générative
+- Des ressources sur l'IA ACT de l'UE :
+	
+	+ [https://artificialintelligenceact.eu/fr/l-acte/](https://artificialintelligenceact.eu/fr/l-acte/)
+
+	+ [https://artificialintelligenceact.eu/fr/ai-act-explorer/](https://artificialintelligenceact.eu/fr/ai-act-explorer/)
+
+
+
+
+
+
+
+
 
 ### 📄 ia_formation_tunisia_ipsi_131125_V1.pdf
 La présentation complète de la formation.
