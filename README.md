@@ -38,9 +38,11 @@ Descriptifs pour créer des agents IA en français et en anglais sur Claude, Mis
 ### 📁 Documents
 Les premières versions des chartes de la RTS et de France Médias Monde (003_FMM_charte_guide_bonnes_pratiques_ia_activite_editoriale.pdf, 004_RTS_charte_ia_version_.pdf) et d'autres documents présentés le dernier jour :
 
-- Cartographie des enjeux et usages de l’IA pour le journalisme : un document intéressant écrit à plusieurs mains avec tous les médias français (radio-france, france télévision, FMM… etc) sous la direction de l’INA rédigé à l’occasion du Sommet pour l’Action sur l’IA de Paris de février 2025. C’est une synthèse intéressante et assez à jour sur l’ensemble des bouleversement à venir liés à l’IA  relatif au métier de journaliste et au sein des rédactions. (005_Alliance_for_facts_IA_journalisme_FR_compressed_0.pdf)
+- Cartographie des enjeux et usages de l’IA pour le journalisme : 
+**Un document intéressant écrit à plusieurs mains avec tous les médias français (radio-france, france télévision, FMM… etc) sous la direction de l’INA rédigé à l’occasion du Sommet pour l’Action sur l’IA de Paris de février 2025. C’est une synthèse intéressante et assez à jour sur l’ensemble des bouleversement à venir liés à l’IA  relatif au métier de journaliste et au sein des rédactions. (005_Alliance_for_facts_IA_journalisme_FR_compressed_0.pdf)**
 
-- Recommandations de sécurité pour un système d'IA générative : un document un peu technique mais qui énonce les enjeux de sécurité nouveaux liés à l'introduction de l’IA dans un système d’information d’entreprise comme un média par exemple. (009_RSSI_Recommandations_de_sécurité_pour_un_système_d_IA_générative.pdf)
+- Recommandations de sécurité pour un système d'IA générative : 
+Un document un peu technique mais qui énonce les enjeux de sécurité nouveaux liés à l'introduction de l’IA dans un système d’information d’entreprise comme un média par exemple. (009_RSSI_Recommandations_de_sécurité_pour_un_système_d_IA_générative.pdf)
 
 - Des ressources sur l'IA ACT de l'UE :
 	
