@@ -30,10 +30,34 @@ Plus d'infos sur [flaven.fr](https://flaven.fr/)
 Plus d'infos sur [https://www.linkedin.com/in/brunoflaven/](https://www.linkedin.com/in/brunoflaven/)
 
 
+### Quelques adresses de LLMs
+
+Tous les URLS des LLMs utilsés pendant la formation: 
+
+- Mistral https://chat.mistral.ai/chat
+- Claude https://claude.ai/new
+- Perplexity https://www.perplexity.ai/
+- Chatgpt (open AI) https://chatgpt.com/
+- Gemini (Google) https://gemini.google.com/app
+
+
+**Pour mémoire**
+
+LLM (Large Language Model) : Grand modèle de langage entraîné sur d'immenses corpus de texte
+
 ## Structure du répertoire
 
 ### 📁 agent_ia
-Descriptifs pour créer des agents IA en français et en anglais sur Claude, Mistral ou Gemini.
+**Différents descriptifs et recommadations pour créer des agents IA en français et en anglais sur Claude, Mistral, ChatGPT ou Gemini.**
+
+Ces agents existent dans Claude pour des tâches éditoriales type rédaction ou travaux SEO. Ils sont néanmoins parfaitement transposables sur tous les LLMs permettant de créer des agents e.g. ChatGPT, Mistral, Gemini.
+
+- Agent Journalistique en français : un agent rédactionnel qui obéit à une charte editoriale strict en vue de produire des articles à publier sur le web
+- SEO_AGENT_TEST_1 : un agent non instruit cad auquel nous n'avons pas donné de contenu rédigé dont ilporraut s'inspirer. 
+- SEO_AGENT_TEST_2 (instruit) : un agent SEO mais instruit cad avec lequel on partage du contenu choisi  ex: article écrits, charte éditoriale, règles syntaxiques…. etc
+- SEO_AGENT_TEST_3 : un agent simplifié pour la publication sur un blog. 
+- AGENT_IA_CAN2025 : Un cas détaillé pour le création d’un en agent spécialisé pour créer du CONTENU ÉDITORIAL sur la CAN 2025 (Coupe d'Afrique des Nations) 
+
 
 ### 📁 Documents
 Les premières versions des chartes de la RTS et de France Médias Monde (003_FMM_charte_guide_bonnes_pratiques_ia_activite_editoriale.pdf, 004_RTS_charte_ia_version_.pdf) et d'autres documents présentés le dernier jour :
@@ -63,11 +87,13 @@ Des exemples de livres sur l'art du prompt. La majorité sont en anglais. Quelqu
 
 - Les principes énoncés reprennent certains éléments de la présentation
 
-- **Ces principes dans la conception d’un prompt sont utilisable sur tous les LLM (Claude, Gemini, ChatGPT, Mistral, Perplexoty) que nous avons vu en formation.**
+- **Ces principes dans la conception d’un prompt sont utilisable sur tous les LLM (Claude, Gemini, ChatGPT, Mistral, Perplexity) que nous avons vu en formation.**
 
 	+ gemini-for-google-workspace-prompting-guide-101.pdf
 	+ THE PROMPT ENGINEERING GUIDE V2.pdf
 	+ The Ultimate Guide To ChatGPT Prompts.pdf
+
+
 
 ### 📁 Prompts_images
 Des prompts pour générer des images.
